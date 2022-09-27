@@ -1,3 +1,0 @@
-# react-personal-portfolio
-
-# test
