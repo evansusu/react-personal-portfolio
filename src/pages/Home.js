@@ -10,7 +10,11 @@ function Home() {
       <div className="about">
         <h2> Hi, my name is Soo Ming Wei</h2>
         <div className="prompt">
-          <p>A software developer with a passion for learning and creating.</p>
+          <p>
+            Computer Science and Design graduate with 3 months' experience in
+            hardware development and software testing. Created and implemented
+            customer information dashboard using React.js and Node.js
+          </p>
           <LinkedInIcon />
           <EmailIcon />
           <GithubIcon />
