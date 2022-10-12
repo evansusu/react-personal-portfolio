@@ -15,7 +15,10 @@ function Home() {
             hardware development and software testing. Created and implemented
             customer information dashboard using React.js and Node.js
           </p>
-          <LinkedInIcon />
+          <a href="https://www.linkedin.com/in/mingweisoo/">
+            {" "}
+            <LinkedInIcon />
+          </a>
           <EmailIcon />
           <GithubIcon />
         </div>
