@@ -1,7 +1,7 @@
 import React from "react";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import EmailIcon from "@material-ui/icons/Email";
-import GithubIcon from "@material-ui/icons/GitHub";
+import GitHubIcon from "@material-ui/icons/GitHub";
 import "../styles/Home.css";
 
 function Home() {
@@ -19,8 +19,12 @@ function Home() {
             {" "}
             <LinkedInIcon />
           </a>
-          <EmailIcon />
-          <GithubIcon />
+          <a href="https://mail.google.com/mail/u/mingweisoo@gmail.com/?view=cm&to=mingweisoo@gmail.com">
+            <EmailIcon />
+          </a>
+          <a href="https://github.com/mingweisoo">
+            <GitHubIcon />
+          </a>
         </div>
       </div>
       <div className="skills">
