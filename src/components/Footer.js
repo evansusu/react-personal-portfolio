@@ -16,8 +16,9 @@ function Footer() {
         <a href="https://mail.google.com/mail/u/mingweisoo@gmail.com/?view=cm&to=mingweisoo@gmail.com">
           <EmailIcon />
         </a>
-
-        <GitHubIcon />
+        <a href="https://github.com/mingweisoo">
+          <GitHubIcon />
+        </a>
       </div>
       <p> &copy; 2022 mingweisoo.com</p>
     </div>
